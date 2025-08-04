@@ -16,12 +16,6 @@
 ✅ Responsive UI
 
 
-## Scrrenshot
-![project-image](image1.PNG)
-![project-image](image2.PNG)
-![project-image](image3.PNG)
-
-
 
 ## Setup
 
