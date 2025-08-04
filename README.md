@@ -11,10 +11,10 @@
 ✅ Export Tasks as JSON
 ✅ Responsive UI
 
-## Screnshot
-![myimage-alt-tag](11.PNG)
-![myimage-alt-tag](22.PNG)
-![myimage-alt-tag](33.PNG)
+## Scrrenshot
+![project-image](11.PNG)
+![project-image](22.PNG)
+![project-image](33.PNG)
 
 
 ## Setup
