@@ -12,7 +12,7 @@
 ✅ Responsive UI
 
 ## Scrrenshot
-![project](33.PNG)
+![project](https://github.com/amanesha/task-dashboard/blob/5689cd91d010a98af963722a19a2e4f76c427d0c/33.PNG)
 
 
 
