@@ -12,8 +12,7 @@
 ✅ Responsive UI
 
 ## Scrrenshot
-
-  ![project](33.PNG)
+![project](33.PNG)
 
 
 
