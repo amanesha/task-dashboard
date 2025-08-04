@@ -12,9 +12,9 @@
 ✅ Responsive UI
 
 ## Screnshot
-![myimage-alt-tag](11.PNG)
-![myimage-alt-tag](22.PNG)
-![myimage-alt-tag](33.PNG)
+![taskDashboard-image](11.PNG)
+![[taskDashboard-image](22.PNG)
+![[taskDashboard-image](33.PNG)
 
 ## Setup
 
