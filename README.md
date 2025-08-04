@@ -13,7 +13,7 @@
 
 ## Scrrenshot
 
-  ![project-image](33.PNG)
+  ![project](33.PNG)
 
 
 
